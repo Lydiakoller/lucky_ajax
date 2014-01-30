@@ -11,7 +11,7 @@ gem 'shotgun'
 gem 'thin'
 
 gem 'activesupport'
-gem 'activerecord'
+gem 'activerecord', '~> 3.2.14'
 
 gem 'rake'
 
